@@ -1,0 +1,8 @@
+1. Silahkan extract terlebihdulu berkas di rar ini.
+2. silahkan anda buat database baru di PHPMyAdmin dengan nama "perputakaan"
+3. kemudian silahkan anda buka database "perpustakaan" yang baru anda buat tadi.
+4. setelah itu silahkan anda import file "perpustakaan.sql"
+5. kemudian silahkan anda buka netbeans anda, dan pada menu bar, silahkan klik "File->Open Project"
+6. silahkan anda cari project dengan nama "Aplikasi_Perpustakaan_Sederhana" yang sudah anda extract tadi.
+7. kemudian klik tombol "Open Project" pada sudut kanan bawah.
+7. selesai.
