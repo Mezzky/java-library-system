@@ -5,4 +5,4 @@
 5. kemudian silahkan anda buka netbeans anda, dan pada menu bar, silahkan klik "File->Open Project"
 6. silahkan anda cari project dengan nama "Aplikasi_Perpustakaan_Sederhana" yang sudah anda extract tadi.
 7. kemudian klik tombol "Open Project" pada sudut kanan bawah.
-7. selesai.
+8. selesai.
