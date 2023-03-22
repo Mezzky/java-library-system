@@ -1,4 +1,4 @@
-1. Silahkan extract terlebihdulu berkas di rar ini.
+1. Silahkan extract terlebih dulu berkas di rar ini.
 2. silahkan anda buat database baru di PHPMyAdmin dengan nama "perputakaan"
 3. kemudian silahkan anda buka database "perpustakaan" yang baru anda buat tadi.
 4. setelah itu silahkan anda import file "perpustakaan.sql"
